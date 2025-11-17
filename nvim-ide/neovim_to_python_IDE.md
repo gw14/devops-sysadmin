@@ -50,3 +50,9 @@ Many users opt to start with a **"starter" configuration** like **`LazyVim`** or
 
 This video demonstrates a complete, modern configuration for setting up Neovim for Python development. [How to Configure Neovim for Python in 2025](https://www.youtube.com/watch?v=IobijoroGE0) This YouTube video is relevant because it provides a step-by-step guide on configuring Neovim specifically for Python development.
 http://googleusercontent.com/youtube_content/0
+
+
+[lazy-vim site](https://www.lazyvim.org/)
+
+[lazy-vim youtube clip](https://www.youtube.com/watch?v=N93cTbtLCIM)
+
