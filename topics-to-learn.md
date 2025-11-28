@@ -46,7 +46,7 @@
 * tmux – 2
 * yt-dlp – 1
 * fzf – 1
-* ffmpeg – 2
+* [ffmpeg – 2](https://github.com/gw14/devops-sysadmin/tree/main/ffmpeg)
 * make – 3
 
 ## 🛡️ **Security / Networking / Protocols**
