@@ -17,7 +17,11 @@ open_browser https://calendar.google.com/calendar/u/0/r
 
 #open_browser https://docs.google.com/document/d/1nrsuwQ33N7-84TtLPBnIk1QwZdtamLPU3z2d1vSFlGg/edit?tab=t.0
 
-open_browser  https://www.notion.so/CKA-certification-16ce8a78051080cd8fdde031794df540
+open_browser https://docs.google.com/document/d/1uYb1bdXIJ7-EmmXJKPbrNJAEzPuhvxM-3qHYPr0iAp4/edit?tab=t.0
+
+open_browser ihttps://www.roboform.com/
+
+open_browser https://www.notion.so/CKA-certification-16ce8a78051080cd8fdde031794df540
 
 open_browser https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/
 
