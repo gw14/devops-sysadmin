@@ -1,3 +1,5 @@
+every note gets it's own MD file.
+
 format:
 header - bold and slightly bigger than content text
 example section:
@@ -7,3 +9,5 @@ logic section:
     logic needs to include all edge cases viewed in exmple.
     logic must be as consice as possible.
     logic must be ordered.
+
+when asked - create a cheat sheet out of every note on the same folder.
